@@ -46,7 +46,7 @@ Este proyecto es un **simulador de operaciones bancarias** desarrollado en C++, 
 
 1. Clona este repositorio:
     ```bash
-    git clone https://github.com/tu_usuario/simulador-cuentas-bancarias.git
+    git clone https://github.com/bryan4824/simulador-cuentas-bancarias.git
     cd simulador-cuentas-bancarias
     ```
 
