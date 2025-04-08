@@ -76,7 +76,7 @@ Este proyecto es un **simulador de operaciones bancarias** desarrollado en C++, 
 
 ## 🧑‍💻 Autor
 
-Creado por [Tu Nombre](https://github.com/tu_usuario) — Proyecto personal para práctica de estructuras en C++.
+Creado por [Bryan de Jesus Santiago Gutierrez y Alexandra Romero Gonzales](https://github.com/tu_usuario) — Proyecto personal para práctica de estructuras en C++.
 
 ## 📄 Licencia
 
